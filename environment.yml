@@ -1,0 +1,7 @@
+name: covid
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pytest
