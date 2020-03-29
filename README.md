@@ -13,5 +13,6 @@ git submodule update
 ## 3Blue1Brown
 
 [Exponential growth and epedemics](https://www.youtube.com/watch?v=Kas0tIxDvrg)
+
 [Simulating epidemics](https://www.youtube.com/watch?v=gxAaO2rsdIs)
 
