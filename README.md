@@ -25,7 +25,10 @@ git submodule update --init
 |[Geospatial data analysis and visualization in Python](https://www.youtube.com/watch?v=Yd5oEIBFQ_E)|Halfdan Rump|osmnx (by Geoff Boeing), geopandas, folium
 
 #### Random Software
-vega (for plotting), color brewer (color advice for cartography), [Chris Roach Github](https://github.com/croach), 
+ * vega (for plotting)
+ * color brewer (color advice for cartography)
+ * [Chris Roach Github](https://github.com/croach)
+ * Plotly!  (Can do interative maps)
 
 Python Geospatial Libraries
  * geopandas - Working with spatial data is fun again!
