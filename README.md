@@ -55,6 +55,12 @@ Python Geospatial Libraries
   * 2009 the joint US and Japanese mission using the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) sensor aborad NASA's Terra satellite.  Captured 99% of the Earth's surface but has proven to have minor data issues.
   * SRTM remains the gold standard.
   * TerraSAR-X and TanDEM-X launched by Germany collected WorldDEM that was released on April 15, 2014.  Dataset has a relative accuracy of 2 meters and an absolute accuracy of 4 meters.
+ * How to Lie with Maps, Mark Monmonier
+ * ISO-19115(-1)(-2)(-3) define standards for geospatial metadata
+ * The Open Geospatial Consortium (OGC), which created the Catalog Service for the Web (CSW), is used to manage metadata. The pycsw Python library implements the CSW standard.
+ * A datum is a model of the Earth's surface that's used to match the location of features on the Earth to a coordinate system. One common datum is called WGS 84 and is used by GPS.
+ * A dissolve operation creates a single polygon out of adjacent polygons.
+ * ray casting algorithm - The most common and efficient algorithm to detect whether a point is inside a polygon.
   
   
 
