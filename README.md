@@ -41,5 +41,21 @@ Python Geospatial Libraries
  * pysal - spatial ecenometrics, exploratory spatial and spatio-temporal data analysis, spatial clustering (and more)
  * descartes - for plotting geometries in matplotlib
 
+# Learning Geospatial Analysis
+
+* [Canadian Geospatial Information System Documentary](https://www.youtube.com/watch?v=3VLGvWEuZxI&feature=youtu.be)
+* [1967 Urban Expansion](https://www.youtube.com/watch?v=xj8DQ7IQ8_o)
+* GIS GUIs (open source)
+  * Quantum GIS (QGIS)
+  * Geographic Resources Analysis Support System (GRASS)
+* Elevation Data
+  * Digital Elevation Model (DEM)
+  * First in 1986 from French space agency (Centre National d'etudes Spatiales (CNES))
+  * February 2000 Space Shuttle Endeavor conducted the Shuttle Radar Topography Mission (SRTM), which collected elevation data of over 80% of the Earth's surface using a special radar antenna configuration that allowed a single pass.
+  * 2009 the joint US and Japanese mission using the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) sensor aborad NASA's Terra satellite.  Captured 99% of the Earth's surface but has proven to have minor data issues.
+  * SRTM remains the gold standard.
+  * TerraSAR-X and TanDEM-X launched by Germany collected WorldDEM that was released on April 15, 2014.  Dataset has a relative accuracy of 2 meters and an absolute accuracy of 4 meters.
+  
+  
 
 
