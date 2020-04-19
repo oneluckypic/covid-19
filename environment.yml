@@ -2,11 +2,19 @@ name: covid
 dependencies:
   - click
   - descartes
+  - ffmpeg
   - geopandas
+  - ipython
   - jupyterlab
   - matplotlib
   - numpy
   - pandas
+  - pip
   - pytest
   - requests
+  - seaborn
   - tabulate
+  - xlrd
+  - pip:
+    - celluloid
+    - moviepy
