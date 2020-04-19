@@ -41,6 +41,10 @@ Python Geospatial Libraries
  * pysal - spatial ecenometrics, exploratory spatial and spatio-temporal data analysis, spatial clustering (and more)
  * descartes - for plotting geometries in matplotlib
 
+# NYC Data
+[Zip Code Population Data](https://data.cityofnewyork.us/City-Government/Demographic-Statistics-By-Zip-Code/kku6-nxdu )
+[Zip Code Shapefiles](https://data.cityofnewyork.us/Business/Zip-Code-Boundaries/i8iw-xf4u)
+
 # Learning Geospatial Analysis
 
 * [Canadian Geospatial Information System Documentary](https://www.youtube.com/watch?v=3VLGvWEuZxI&feature=youtu.be)
@@ -61,7 +65,6 @@ Python Geospatial Libraries
  * A datum is a model of the Earth's surface that's used to match the location of features on the Earth to a coordinate system. One common datum is called WGS 84 and is used by GPS.
  * A dissolve operation creates a single polygon out of adjacent polygons.
  * ray casting algorithm - The most common and efficient algorithm to detect whether a point is inside a polygon.
-  
-  
+
 
 

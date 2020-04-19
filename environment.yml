@@ -1,9 +1,12 @@
 name: covid
 dependencies:
   - click
+  - descartes
+  - geopandas
   - jupyterlab
   - matplotlib
   - numpy
   - pandas
   - pytest
   - requests
+  - tabulate
