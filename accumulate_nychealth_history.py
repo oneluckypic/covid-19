@@ -8,7 +8,7 @@ import pandas as pd
 import subprocess
 
 @click.command()
-@click.option('--input', default='data/nychealth/coronavirus-data/tests-by-zcta.csv',
+@click.option('--input', default='..//nychealth-data/tests-by-zcta.csv',
     help='CSV to accumulate git history from.')
 @click.option('--output', default='data/accum-nychealth-tests-by-zcta.csv',
     help='The file to write accumulated data to.')

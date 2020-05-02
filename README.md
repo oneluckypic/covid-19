@@ -7,7 +7,14 @@ git clone git@github.com:oneluckypic/covid-19.git
 
 cd covid-19
 
-git submodule update --init
+On Windows:
+
+update_data.bat
+
+On Mac:
+
+./update_data.sh
+
 ```
 
 # Resources
